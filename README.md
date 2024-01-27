@@ -1,2 +1,2 @@
 # learning-about-version-control
-Solving Merge conflicts is soooo hard!
+Solving merge conflicts takes conscious effort but i can do it!
