@@ -1,3 +1,3 @@
 # Learning About Version Control
 
-### Nour Abdelfattah 
+Author: Nour Abdelfattah
